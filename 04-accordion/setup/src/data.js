@@ -1,33 +1,34 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'NITW - Industrial Control Panels',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      'REQUIREMENTS: The basic standard used to investigate products in this category is UL 508A, "Industrial Control Panels.',
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title:
+      'XPLH - Transformers, Distribution, Liquid-filled Type, Over 600 Volts',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+      'REQUIREMENTS: The basic standard used to investigate products in this category is IEEE C57.12.00, General Requirements for Liquid-Immersed Distribution, Power, and Regulating Transformers. Pad-mounted-type transformers are additionally investigated to IEEE C57.12.28, Pad-Mounted Equipment - Enclosure Integrity.',
   },
   {
     id: 3,
-    title: 'What is BankID?',
+    title: 'DZYR - Rigid Nonmetallic PVC Conduit',
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      'REQUIREMENTS: The basic standard used to investigate products in this category is ANSI/UL 651, "Schedule 40, 80, Type EB and A Rigid PVC Conduit and Fittings."',
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
+    title: 'EGHX - Underground Tanks',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+      'REQUIREMENTS: For additional information, see Fixed and Stationary Storage Tanks (EDQX), Containment Products for Flammable and Combustible Liquids (ECPR) and Flammable and Combustible Liquids and Gases Equipment (AAPQ).',
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
+    title: 'WEVZ - Switchboards, Dead-front',
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+      'REQUIREMENTS: The basic standard used to investigate products in this category is UL 891, "Switchboards." Switchboards certified as "arc resistant" have additionally been investigated to IEEE C37.20.7, Annex J, "Guide for Testing Switchgear Rated Up to 52 kV for Internal Arcing Faults."',
   },
-]
-export default questions
+];
+export default questions;
